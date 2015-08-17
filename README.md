@@ -2,6 +2,11 @@
 This repository contains swear words which can be used in obscenity filters like [https://github.com/michaelglass/obscenity](this one).
 Feel free to contribute more swear words to this repository via **Pull Requests**.
 
+Put **common swear words** into `{locale}/swdb.txt` seperated by a `LINEFEED (\n)`
+You may put exotic swear words into `{locale}/swdb.extended.txt`. 
+
+I will add scripts to simplify the adding process soon. 
+
 # License
 
                                  Apache License
