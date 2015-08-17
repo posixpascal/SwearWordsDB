@@ -1,5 +1,5 @@
 # A database with swear words
-This repository contains swear words which can be used in obscenity filters like [https://github.com/michaelglass/obscenity](this one).
+This repository contains swear words which can be used in obscenity filters like [this one](https://github.com/michaelglass/obscenity).
 Feel free to contribute more swear words to this repository via **Pull Requests**.
 
 Put **common swear words** into `{locale}/swdb.txt` seperated by a `LINEFEED (\n)`
